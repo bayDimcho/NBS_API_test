@@ -1,1 +1,1 @@
-// empty JavaScript
+// empty JavaScript file

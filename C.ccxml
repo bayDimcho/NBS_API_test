@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ccxml>
-<!--// empty CCXML-->
-  <eventprocessor statevariable="state"/>
-  <settings>
-  </settings>
+	<!--// empty CCXML file -->
+	<eventprocessor statevariable="state"/>
+	<settings>
+	</settings>
 </ccxml>
